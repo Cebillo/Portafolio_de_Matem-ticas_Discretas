@@ -18,6 +18,6 @@ Bienvenido al índice del repositorio. A continuación, encontrarás las dos úl
 
 ---
 
-### ⬅ Volver al README Principal
+### ⬅ Volver a la carátula
 
 - [Volver al inicio](README.md)
