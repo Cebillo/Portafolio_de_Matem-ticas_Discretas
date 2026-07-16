@@ -1,4 +1,5 @@
 # 📖 Índice de Matemáticas Discretas
+## GRAFOS Y ÁRBOLES
 
 Bienvenido al índice del repositorio. A continuación, encontrarás la última unidad de la materia y sus respectivas actividades.
 
