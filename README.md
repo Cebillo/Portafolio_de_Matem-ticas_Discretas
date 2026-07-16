@@ -30,3 +30,9 @@
         <td>Portafolio de Matemáticas Discretas</td>
     </tr>
 </table>
+
+### 📚 Contenido de la Materia
+
+Si deseas acceder a todas las unidades y actividades de Matemáticas Discretas, puedes consultar el índice completo del repositorio.
+
+### ➡️ [Ir al Índice de Matemáticas Discretas](Indice.md)
