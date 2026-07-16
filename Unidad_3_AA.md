@@ -25,8 +25,8 @@ En este apartado se podrá encontrar los trabajos AA hechos en esta unidad.
 
 ## 📝 Guías
 
-[Libro 1](https://fliphtml5.com/hchjv/yovx/Matem%C3%A1ticas_discretas_-_Jos%C3%A9_Francisco_Villalpando_Becerra-LIBROSVIRTUAL/#google_vignette)
-[Libro 2](https://github.com/user-attachments/files/30076791/MATEMATICA.DISCRETA.DE.OSCAR.LEVIN.pdf)
+- [Libro 1](https://fliphtml5.com/hchjv/yovx/Matem%C3%A1ticas_discretas_-_Jos%C3%A9_Francisco_Villalpando_Becerra-LIBROSVIRTUAL/#google_vignette)
+- [Libro 2](https://github.com/user-attachments/files/30076791/MATEMATICA.DISCRETA.DE.OSCAR.LEVIN.pdf)
 
 ---
 
